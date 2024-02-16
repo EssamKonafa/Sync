@@ -1,4 +1,4 @@
-#sync is a website based on linkedin
+# sync is a website based on linkedin
 project still under development
 ![Screenshot 2024-02-16 202634](https://github.com/EssamKonafa/Sync/assets/128749610/2f4d6d90-7f07-4c7d-a261-8c5e5fe58ccf)
 
